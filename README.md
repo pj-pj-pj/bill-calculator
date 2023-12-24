@@ -1,2 +1,2 @@
-# tipCalculator
+# tip-calculator
 practice project for react
