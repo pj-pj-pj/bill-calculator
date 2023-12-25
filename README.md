@@ -1,3 +1,3 @@
-# tip-calculator
+# bill-calculator
 
 practice project for react
